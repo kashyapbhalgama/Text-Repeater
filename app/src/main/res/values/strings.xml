@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text Repeater</string>
+    <string name="generate">Generate</string>
+    <string name="repeat_on_new_line">Repeat on new line</string>
+    <string name="clear_all">Clear all</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+</resources>
