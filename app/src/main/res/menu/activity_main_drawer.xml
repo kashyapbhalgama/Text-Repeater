@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/icon_nav_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/icon_nav_about"
+        android:title="About Us" />
+
+    <item
+        android:id="@+id/nav_terms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/icon_nav_terms"
+        android:title="Terms &amp; Conditions" />
+    <item
+        android:id="@+id/nav_privacy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/icon_nav_privacy"
+        android:title="Privacy Policy" />
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:icon="@drawable/icon_nav_share"
+                android:title="Share" />
+        </menu>
+    </item>
+</menu>
